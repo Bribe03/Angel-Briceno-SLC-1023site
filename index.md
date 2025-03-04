@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~. Angel Briceno 4382499
+Text can be **bold**, _italic_, or ~~strikethrough~~. 
+
+Angel Briceno 4382499
 
 [Link to another page](./another-page.html).
 
